@@ -107,3 +107,11 @@ opacity: 1;
     padding: .5rem 1rem;
     margin-top: -25px;
 }
+.navbar-collapse{
+  flex-basis: 100%;
+  flex-grow: 1;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  margin-left: 540px;
+  margin-top: -125px;
+}
